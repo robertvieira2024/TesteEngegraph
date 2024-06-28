@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph\\Views\\Contact\\Delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph\\Views\\Contact\\Edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph\\Views\\Contact\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph_Console\\Database\\TriggerContact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph_Console\\Database\\TriggerContact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph\\Startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TesteEngegraph\\Controllers\\ContactController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Program.cs",
+              "RelativeDocumentMoniker": "TesteEngegraph\\Program.cs",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Program.cs",
+              "RelativeToolTip": "TesteEngegraph\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:49:31.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Startup.cs",
+              "RelativeDocumentMoniker": "TesteEngegraph\\Startup.cs",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Startup.cs",
+              "RelativeToolTip": "TesteEngegraph\\Startup.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAABkAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:49:31.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TriggerContact.cs",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph_Console\\Database\\TriggerContact.cs",
+              "RelativeDocumentMoniker": "TesteEngegraph_Console\\Database\\TriggerContact.cs",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph_Console\\Database\\TriggerContact.cs",
+              "RelativeToolTip": "TesteEngegraph_Console\\Database\\TriggerContact.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:49:31.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Index.cshtml",
+              "RelativeDocumentMoniker": "TesteEngegraph\\Views\\Contact\\Index.cshtml",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Index.cshtml",
+              "RelativeToolTip": "TesteEngegraph\\Views\\Contact\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:49:31.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Edit.cshtml",
+              "RelativeDocumentMoniker": "TesteEngegraph\\Views\\Contact\\Edit.cshtml",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Edit.cshtml",
+              "RelativeToolTip": "TesteEngegraph\\Views\\Contact\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:49:31.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Delete.cshtml",
+              "RelativeDocumentMoniker": "TesteEngegraph\\Views\\Contact\\Delete.cshtml",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Views\\Contact\\Delete.cshtml",
+              "RelativeToolTip": "TesteEngegraph\\Views\\Contact\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T20:49:31.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ContactController.cs",
+              "DocumentMoniker": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Controllers\\ContactController.cs",
+              "RelativeDocumentMoniker": "TesteEngegraph\\Controllers\\ContactController.cs",
+              "ToolTip": "E:\\DOCUMENTOS\\Cursos_programacao\\ProjetoGit\\EstudoC#\\Fork\\TesteEngegraph\\TesteEngegraph\\Controllers\\ContactController.cs",
+              "RelativeToolTip": "TesteEngegraph\\Controllers\\ContactController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T20:49:31.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

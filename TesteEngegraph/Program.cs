@@ -16,7 +16,7 @@ namespace TesteEngegraph
             CreateHostBuilder(args).Build().Run();
 
         }
-
+        // Create Host Builder
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
